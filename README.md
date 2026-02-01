@@ -15,7 +15,7 @@ Make this Valentine's Day unforgettable with a charming and interactive web expe
 
 ## How It Works
 
-- The user is greeted with a cute GIF and the question "Will you be my Valentine Bacha ?".
+- The user is greeted with a cute GIF and the question "Will you be my Valentine Bacha?".
 - Responding "No" changes the GIF and modifies the size and text of the buttons, adding a playful element to convince the user to reconsider.
 - A "Yes" click celebrates the moment with a special GIF and triggers a confetti animation, hiding the response buttons.
 
